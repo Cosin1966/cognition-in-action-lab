@@ -1,0 +1,36 @@
+{
+  "/": {
+    "visible_text_preserved": true,
+    "html_bytes": 14360
+  },
+  "about": {
+    "visible_text_preserved": true,
+    "html_bytes": 13244
+  },
+  "research": {
+    "visible_text_preserved": true,
+    "html_bytes": 16478
+  },
+  "publications": {
+    "visible_text_preserved": true,
+    "html_bytes": 15531
+  },
+  "people": {
+    "visible_text_preserved": true,
+    "html_bytes": 11397
+  },
+  "collaborators": {
+    "visible_text_preserved": true,
+    "html_bytes": 14924
+  },
+  "news": {
+    "visible_text_preserved": true,
+    "html_bytes": 10993
+  },
+  "verification": {
+    "pages": 7,
+    "local_references_checked": 287,
+    "missing": [],
+    "source_commit": "cdccc5ab0576bbc8d399c5011b4679498bde0779"
+  }
+}
