@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Research network</title>
+  <desc id="desc">A geometric editorial drawing of six researchers connected around one shared goal.</desc>
+  <rect width="1600" height="1000" fill="#f7f4ef"/>
+  <g fill="none" stroke="#d8d1c7" stroke-width="2">
+    <path d="M0 166h1600M0 500h1600M0 834h1600"/>
+    <path d="M267 0v1000M800 0v1000M1333 0v1000"/>
+  </g>
+  <g fill="none" stroke="#76233d" stroke-linecap="round">
+    <circle cx="800" cy="500" r="224" stroke-width="3"/>
+    <circle cx="800" cy="500" r="154" stroke-width="2" stroke-dasharray="6 14"/>
+    <path d="M650 347 450 215M950 347l200-132M576 500H310M1024 500h266M650 653 450 785M950 653l200 132" stroke-width="4"/>
+  </g>
+  <g fill="#76233d">
+    <circle cx="650" cy="347" r="10"/><circle cx="950" cy="347" r="10"/>
+    <circle cx="576" cy="500" r="10"/><circle cx="1024" cy="500" r="10"/>
+    <circle cx="650" cy="653" r="10"/><circle cx="950" cy="653" r="10"/>
+  </g>
+  <g transform="translate(800 500)">
+    <circle r="112" fill="#e7ded3" stroke="#172b3a" stroke-width="5"/>
+    <path d="M-60 12c18-50 102-50 120 0M-42 34c25 26 59 26 84 0" fill="none" stroke="#172b3a" stroke-linecap="round" stroke-width="9"/>
+    <circle cy="-35" r="18" fill="#76233d"/>
+  </g>
+  <g stroke="#172b3a" stroke-width="5">
+    <g transform="translate(450 215)"><circle r="80" fill="#ffffff"/><circle cy="-18" r="25" fill="#d6a17b"/><path d="M-45 58c8-59 82-59 90 0" fill="#2f7f7b"/></g>
+    <g transform="translate(1150 215)"><circle r="80" fill="#ffffff"/><circle cy="-18" r="25" fill="#8f573f"/><path d="M-45 58c8-59 82-59 90 0" fill="#76233d"/></g>
+    <g transform="translate(310 500)"><circle r="80" fill="#ffffff"/><circle cy="-18" r="25" fill="#b87556"/><path d="M-45 58c8-59 82-59 90 0" fill="#172b3a"/></g>
+    <g transform="translate(1290 500)"><circle r="80" fill="#ffffff"/><circle cy="-18" r="25" fill="#e0b28d"/><path d="M-45 58c8-59 82-59 90 0" fill="#2f7f7b"/></g>
+    <g transform="translate(450 785)"><circle r="80" fill="#ffffff"/><circle cy="-18" r="25" fill="#6e4938"/><path d="M-45 58c8-59 82-59 90 0" fill="#76233d"/></g>
+    <g transform="translate(1150 785)"><circle r="80" fill="#ffffff"/><circle cy="-18" r="25" fill="#c68a65"/><path d="M-45 58c8-59 82-59 90 0" fill="#172b3a"/></g>
+  </g>
+  <g fill="#2f7f7b">
+    <circle cx="535" cy="325" r="7"/><circle cx="1065" cy="325" r="7"/>
+    <circle cx="502" cy="500" r="7"/><circle cx="1098" cy="500" r="7"/>
+    <circle cx="535" cy="675" r="7"/><circle cx="1065" cy="675" r="7"/>
+  </g>
+</svg>
