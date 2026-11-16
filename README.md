@@ -1,7 +1,7 @@
 # JOINT — GitHub Pages
 
-Esportazione per **Cosin1966/cognition-in-action-lab**.
-Indirizzo previsto: https://cosin1966.github.io/cognition-in-action-lab/
+Esportazione per **Cosin1966/joint**.
+Indirizzo previsto: https://cosin1966.github.io/joint/
 
 ## Pubblicazione
 
@@ -23,6 +23,6 @@ Il pacchetto è pronto; questa esportazione non ha modificato né pubblicato il 
 
 La versione statica mantiene l'HTML e il CSS effettivamente pubblicati. La navigazione utilizza collegamenti HTML standard e il menu mobile mantiene il controllo nativo `<details>`. Gli script di navigazione Vinext e i metadati di anteprima sono rimossi perché richiedono il server originale; le pagine non dipendono da tale server. Le immagini e i caratteri sono inclusi nel pacchetto. I collegamenti esterni alle pubblicazioni restano invariati.
 
-I percorsi sono predisposti per `/cognition-in-action-lab/`. Se cambia il nome del repository o si usa un dominio personalizzato, aggiornare questo prefisso negli HTML e nel CSS. Per un'anteprima locale, servire la cartella superiore con `python3 -m http.server 8000` e visitare `http://localhost:8000/cognition-in-action-lab/`.
+I percorsi sono predisposti per `/joint/`. Se cambia il nome del repository o si usa un dominio personalizzato, aggiornare questo prefisso negli HTML e nel CSS. Per un'anteprima locale, servire la cartella superiore con `python3 -m http.server 8000` e visitare `http://localhost:8000/joint/`.
 
 Per modifiche immediate su GitHub Pages, aggiornare gli HTML e `assets/site.css`. Le modifiche ai TSX in `original-source` richiedono una nuova esportazione statica: il workflow incluso pubblica gli HTML pronti, non compila il progetto server originale.
